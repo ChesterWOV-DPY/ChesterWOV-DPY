@@ -1,5 +1,4 @@
-# Hi there 👋 I am ChesterWOV!
-### Bio
+# Hi there 👋
 I am ChesterWOV - known as "403: Forbidden" in the dpy server.
 I am just a guy who likes coding and wants to help people!
 I love automating stuff with programming.
