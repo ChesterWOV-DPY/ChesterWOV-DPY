@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi there 👋 I am ChesterWOV!
+### Bio
+I am ChesterWOV - known as "403: Forbidden" in the dpy server.
+I am just a guy who likes coding and wants to help people!
+I love automating stuff with programming.
+### Information
+- 😀 My **pronouns**: he/him
+- 👾 My **most experienced programming lanaguage**: Python
+- 💻 My **programming languages**: Python, JavaScript
+- 💬 My **discord tag**: `ChesterWOV#4052`
 
-<!--
-**ChesterWOV-DPY/ChesterWOV-DPY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I will add more info later.
