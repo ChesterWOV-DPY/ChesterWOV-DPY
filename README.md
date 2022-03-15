@@ -5,7 +5,7 @@ I love automating stuff with programming.
 ### Information
 - 😀 My **pronouns**: he/him
 - 👾 My **most experienced programming lanaguage**: Python
-- 💻 My **programming languages**: Python, JavaScript
+- 💻 My **programming languages**: Python, JavaScript, Swift, Golang
 - 💬 My **discord tag**: `ChesterWOV#4052`
 
 I will add more info later.
