@@ -8,4 +8,4 @@ I love automating stuff with programming.
 - 💻 My **programming languages**: Python, JavaScript, C, Java
 - 💬 My **discord tag**: `ChesterWOV#4052`
 
-I will add more info later.
+I will add more info later... and by later, I probably mean never.
